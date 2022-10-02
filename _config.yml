@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HeXA blog project"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "hyunsuYE"
+description              : "this is practice page"
 url                      : "hyunsuYEE.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HyunsuYEE/HyunsuYEE.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "show markdown *Italic* Blod"
   location         : "Somewhere"
   email            :
   links:

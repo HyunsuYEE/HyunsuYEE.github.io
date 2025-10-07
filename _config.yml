@@ -1,7 +1,7 @@
 # 기본 정보
 title: Hyunsu Ye # <--- 브라우저 탭에 표시될 이름
 author: Hyunsu Ye # <--- 작성자 이름
-email: dpgustn@naver.com # <--- 본인 이메일
+email: hsye@casys.kaist.ac.kr # <--- 본인 이메일 hsye [at] casys.kaist.ac.kr
 description: Hyunsu Ye, KAIST CS # <--- 사이트 설명
 show_excerpts: true
 
@@ -25,7 +25,7 @@ plainwhite:
   social_links:
     github: HyunsuYEE # <--- GitHub 아이디
     linkedIn: in/hyunsu-ye-41a515352/ # <--- LinkedIn 프로필 주소
-    email: dpgustn@naver.com # <--- 이메일 주소
+    email: hsye@casys.kaist.ac.kr # <--- 이메일 주소
 
 # 플러그인 설정
 plugins:

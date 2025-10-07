@@ -3,7 +3,8 @@ layout: post
 title:  "Awards"
 # date:   2025-09-05 21:03:35 +0530
 ---
-- **Best Undergraduate Paper Award**, (Host: [IEIE][ieie]) Nov. 2023
-- **3rd place in ICCV2023 Hand Challenge** (link : [ICCV2023 Hand Challenge][iccv2023handchallenge]) Oct. 2023
-[ieie]: https://conf.theieie.org/2023f/
-[iccv2023handchallenge]: https://sites.google.com/view/hands2023/home?authuser=0
+- **Best Undergraduate Paper Award**, (Host: [ieie][ieie_link]) Nov. 2023
+- **3rd place in ICCV2023 Hand Challenge** (link : [ICCV2023 Hand Challenge][handchallenge]) Oct. 2023
+
+[ieie_link]: https://conf.theieie.org/2023f/
+[handchallenge]: https://sites.google.com/view/hands2023/home?authuser=0

@@ -4,7 +4,7 @@ title:  "Awards"
 # date:   2025-09-05 21:03:35 +0530
 ---
 - Nov. 2023 : **Best Undergraduate Paper Award**, (Host: [ieie][ieie_link])
-- Oct. 2023 : **3rd place in ICCV2023 Hand Challenge** (link : [ICCV2023 Hand Challenge][handchallenge], certificate: [Certificate][certificate_paper]) 
+- Oct. 2023 : **3rd place in ICCV2023 Hand Challenge** (link : [ICCV2023 Hand Challenge][handchallenge], [Certificate][certificate_paper]) 
 
 [ieie_link]: https://conf.theieie.org/2023f/
 [handchallenge]: https://sites.google.com/view/hands2023/home?authuser=0

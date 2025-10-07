@@ -1,0 +1,32 @@
+# 기본 정보
+title: Hyunsu Ye # <--- 브라우저 탭에 표시될 이름
+author: Hyunsu Ye # <--- 작성자 이름
+email: dpgustn@naver.com # <--- 본인 이메일
+description: Hyunsu Ye, KAIST CS # <--- 사이트 설명
+show_excerpts: true
+
+# 테마 설정 (가장 중요한 부분, 절대 수정하지 마세요)
+remote_theme: samarsault/plainwhite-jekyll
+
+# 사이트 디자인 및 기능 설정
+plainwhite:
+  name: Hyunsu Ye # <--- 사이드바에 표시될 이름
+  tagline: M.S. Student @ KAIST CASYS # <--- 이름 아래에 표시될 설명
+  date_format: "%b %-d, %Y"
+  sitemap: true
+  search: false
+  dark_mode: true
+  portfolio_image: "assets/images/profile.jpg" # <--- 프로필 사진 경로 (아래에서 만들 예정)
+  html_lang: "en"
+  condensed_mobile:
+    - page
+    - post
+  # 소셜 링크 (본인 계정으로 수정)
+  social_links:
+    github: HyunsuYEE # <--- GitHub 아이디
+    linkedIn: in/hyunsu-ye-41a515352/ # <--- LinkedIn 프로필 주소
+    email: dpgustn@naver.com # <--- 이메일 주소
+
+# 플러그인 설정
+plugins:
+  - jekyll-seo-tag

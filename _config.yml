@@ -16,7 +16,7 @@ plainwhite:
   sitemap: true
   search: false
   dark_mode: true
-  portfolio_image: "assets/images/profile.jpg" # <--- 프로필 사진 경로 (아래에서 만들 예정)
+  portfolio_image: "assets/images/profile.jpeg" # <--- 프로필 사진 경로 (아래에서 만들 예정)
   html_lang: "en"
   condensed_mobile:
     - page
